@@ -1,10 +1,129 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Malicious News</title>
+    <title>DevRa on Malicious News</title>
     <link>https://maliciousnews.github.io/</link>
-    <description>Recent content on Malicious News</description>
+    <description>Recent content in DevRa on Malicious News</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://maliciousnews.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Mar 2020 04:52:30 +0600</lastBuildDate><atom:link href="https://maliciousnews.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emotet What Does It Do?</title>
+      <link>https://maliciousnews.github.io/posts/emotet-what-does-it-do/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maliciousnews.github.io/posts/emotet-what-does-it-do/</guid>
+      <description>Emotet was once described as the &amp;ldquo;world&amp;rsquo;s most dangerous malware&amp;rdquo;,by Europol. Security researchers first discovered the malware as a banking trojan in 2014.
+What is Emotet? Emotet is a Trojan that is spread through email, that could contain a malicious attachment or a malicious link. Emotet utilizes social engineering tricks by using branding to disguise themselves to look legitimate by using tempting keywords “Payment Details”, and “Shipping Information” and luring the victim into downloading the malicious Office file and enabling macros.</description>
+    </item>
+    
+    <item>
+      <title>Chords for Happy Birthday</title>
+      <link>https://maliciousnews.github.io/posts/chords-for-happy-birthday/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maliciousnews.github.io/posts/chords-for-happy-birthday/</guid>
+      <description> C G Happy birthday to you G C Happy birthday to you C F Happy birthday dear BlogRa C Bdim C Happy birthday to you </description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://maliciousnews.github.io/posts/markdown-syntax/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maliciousnews.github.io/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://maliciousnews.github.io/posts/placeholder-text/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maliciousnews.github.io/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://maliciousnews.github.io/posts/rich-content/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maliciousnews.github.io/posts/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Write Math Equations</title>
+      <link>https://maliciousnews.github.io/posts/write-math-equations/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maliciousnews.github.io/posts/write-math-equations/</guid>
+      <description>Write math equations with ease. At first enable math:true in front matter.
+Then write this-
+$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$ to produce this-
+$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$
+And write this-
+$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$ to produce this-
+$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$</description>
+    </item>
+    
+    <item>
+      <title>Make Diagrams with Mermaid</title>
+      <link>https://maliciousnews.github.io/posts/make-diagrams-with-mermaid/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maliciousnews.github.io/posts/make-diagrams-with-mermaid/</guid>
+      <description>Mermaid is an awesome software engineering diagramming tool. Write markdowns like this-
+graph TD A[Client] --&amp;gt; B[Load Balancer] B --&amp;gt; C[Server01] B --&amp;gt; D[Server02] to generate diagrams like this-
+graph TD A[Client] --&gt; B[Load Balancer] B --&gt; C[Server01] B --&gt; D[Server02] Find more about mermaid at mermaid-js.github.io/mermaid/</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>https://maliciousnews.github.io/sections/python-tutorial/chapter-2/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maliciousnews.github.io/sections/python-tutorial/chapter-2/</guid>
+      <description>This is Chapter 2.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>https://maliciousnews.github.io/sections/python-tutorial/chapter-1/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maliciousnews.github.io/sections/python-tutorial/chapter-1/</guid>
+      <description>This is Chapter 1.</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://maliciousnews.github.io/posts/emoji-support/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maliciousnews.github.io/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://maliciousnews.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maliciousnews.github.io/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://maliciousnews.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maliciousnews.github.io/contact/</guid>
+      <description>Click me to reveal my email. Don&amp;rsquo;t spam or I will kidnap your cat.</description>
+    </item>
+    
   </channel>
 </rss>
